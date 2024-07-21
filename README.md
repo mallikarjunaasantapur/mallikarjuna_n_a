@@ -15,7 +15,7 @@
       </p>
     </td>
     <td>
-      <img src="https://github.com/yourusername/yourrepository/blob/main/path/to/your/image.png" alt="Your Image" width="200" align="right">
+      <img src="https://github.com/mallikarjunaasantapur/mallikarjuna_n_a/blob/main/assets/images/Car_Game.png" alt="Your Image" width="200" align="right">
     </td>
   </tr>
 </table>
